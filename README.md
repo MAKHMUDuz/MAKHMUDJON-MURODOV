@@ -1,69 +1,66 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Selam,+Ben+Makhmudjon;Gazi+Üniversitesi+Öğrencisi;Yazılım+Geliştirici;Siber+Güvenlik+Meraklısı" alt="Typing SVG" /></a>
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+  <h1>Makhmudjon Murodov</h1>
+  <p><strong>Yazılım Geliştirme, Siber Güvenlik ve IoT Tutkunu</strong></p>
 </div>
 
-<p align="center">
-  <i>Teknoloji ve disiplini bir araya getiren, sürekli öğrenmeye odaklı bir geliştirici adayı.</i>
-</p>
+---
 
-<br>
-
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      
 ### 👋 Hakkımda
-      
-Gazi Üniversitesi'nde **Bilgisayar ve Öğretim Teknolojileri** okuyan, 3. sınıf lisans öğrencisiyim. Benim için kod yazmak, bir problemi çözmekten daha fazlası; yeni dünyalar yaratma sanatı. **Yazılım geliştirme**, **siber güvenlik** ve **IoT** alanlarındaki tutkumu, **Judo** gibi savunma sanatlarının getirdiği disiplinle birleştiriyorum.
-      
-<br>
 
-### 🎓 Eğitim ve Başarılar
-      
-- **Lisans Derecesi** <br>
-  *Gazi Üniversitesi, BÖTE (2022-Halen)*
-- **C1 Türkçe Yeterlilik** <br>
-  *Gazi TÖMER*
-- **İnovasyon ve Girişimcilik Zirvesi '24** <br>
-  *Katılım Belgesi*
-- **Judo Turuncu Kuşak** <br>
-  *Türkiye Judo Federasyonu*
+Gazi Üniversitesi'nde **Bilgisayar ve Öğretim Teknolojileri** okuyan, 3. sınıf lisans öğrencisiyim. Benim için kod yazmak, bir problemi çözmekten daha fazlası; yeni dünyalar yaratma sanatı. **Yazılım geliştirme**, **siber güvenlik** ve **IoT** alanlarındaki tutkumu, **Judo** gibi savunma sanatlarının getirdiği disiplinle birleştirerek kendimi bütünsel olarak geliştiriyorum. Hedefim, temiz, verimli ve güvenli çözümler üreten bir teknoloji profesyoneli olmaktır.
 
-</td>
-<td valign="top" width="35%">
+---
 
-### 🛠️ Teknoloji & Araç Setim
-      
-<div align="center">
+### 🛠️ Teknik Becerilerim
+
+Aşağıdaki teknolojiler ve araçlar üzerinde aktif olarak çalışıyor ve kendimi geliştiriyorum:
+
+<div align="center" style="margin: 25px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,mysql,git,github,arduino,linux&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,mysql,git,github,arduino,linux&perline=6&theme=dark" />
   </a>
 </div>
-      
-<br>
-      
-### 🌍 Diller
-      
-| Dil      | Seviye    |
-|----------|-----------|
-| Özbekçe  | Ana Dil   |
-| Türkçe   | İleri (C1)|
-| Rusça    | İyi       |
 
-<br>
+---
+
+### 🎓 Eğitim ve Başarılar
+
+#### **Lisans Derecesi**
+- **Gazi Üniversitesi**, Ankara
+- *Bilgisayar ve Öğretim Teknolojileri Eğitimi (BÖTE)*
+- *2022 - Halen Devam Ediyor*
+
+#### **Sertifikalar ve Belgeler**
+- **C1 Seviye Türkçe Yeterlilik Diploması** - *Gazi Üniversitesi TÖMER*
+- **İnovasyon ve Girişimcilik Zirvesi '24 Katılım Sertifikası** - *Üniversite Etkinliği*
+- **Judo Turuncu Kuşak Belgesi** - *Türkiye Judo Federasyonu, Ekim 2024*
+- **Judo Sarı Kuşak Belgesi** - *Türkiye Judo Federasyonu, Bahar 2024*
+
+---
+
+### 🌍 Diller
+
+| Dil      | Seviye      | Açıklama      |
+|----------|-------------|---------------|
+| **Özbekçe**| Ana Dil     | -             |
+| **Türkçe** | İleri (C1)  | Akademik ve Profesyonel Yetkinlik |
+| **Rusça**  | İyi         | Akıcı Konuşma |
+
+---
 
 ### 📫 Bana Ulaşın
-<div align="center">
+
+Projeler, işbirliği veya herhangi bir konuda sohbet etmek için aşağıdaki kanallardan bana ulaşabilirsiniz.
+
+<p align="center">
     <a href="https://github.com/MAKHMUDJON-MURODOV" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:makhmudjonmurodov0@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-</div>
-      
-</td>
-</tr>
-</table>
+    <a href="mailto:mahmudjonmurodov@mail.ru" target="_blank">
+        <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru"/>
+    </a>
+</p>
