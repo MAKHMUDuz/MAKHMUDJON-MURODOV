@@ -8,7 +8,11 @@
 
 ### 👋 Hakkımda
 
-Gazi Üniversitesi'nde **Bilgisayar ve Öğretim Teknolojileri** okuyan, 3. sınıf lisans öğrencisiyim. Benim için kod yazmak, bir problemi çözmekten daha fazlası; yeni dünyalar yaratma sanatı. **Yazılım geliştirme**, **siber güvenlik** ve **IoT** alanlarındaki tutkumu, **Judo** gibi savunma sanatlarının getirdiği disiplinle birleştirerek kendimi bütünsel olarak geliştiriyorum. Hedefim, temiz, verimli ve güvenli çözümler üreten bir teknoloji profesyoneli olmaktır.
+- 🎓 Gazi Üniversitesi, **Bilgisayar ve Öğretim Teknolojileri** 3. sınıf lisans öğrencisiyim.
+- 💻 Benim için kod yazmak, bir problemi çözmekten daha fazlası; yeni dünyalar yaratma sanatıdır.
+- 🚀 **Yazılım geliştirme**, **siber güvenlik** ve **IoT** alanlarına büyük bir tutkuyla bağlıyım.
+- 🥋 Teknik tutkumu, **Judo** gibi savunma sanatlarının getirdiği disiplinle birleştirerek kendimi bütünsel olarak geliştiriyorum.
+- 🎯 Hedefim, temiz, verimli ve güvenli çözümler üreten bir teknoloji profesyoneli olmaktır.
 
 ---
 
@@ -31,21 +35,33 @@ Aşağıdaki teknolojiler ve araçlar üzerinde aktif olarak çalışıyor ve ke
 - *Bilgisayar ve Öğretim Teknolojileri Eğitimi (BÖTE)*
 - *2022 - Halen Devam Ediyor*
 
-#### **Sertifikalar ve Belgeler**
-- **C1 Seviye Türkçe Yeterlilik Diploması** - *Gazi Üniversitesi TÖMER*
-- **İnovasyon ve Girişimcilik Zirvesi '24 Katılım Sertifikası** - *Üniversite Etkinliği*
-- **Judo Turuncu Kuşak Belgesi** - *Türkiye Judo Federasyonu, Ekim 2024*
-- **Judo Sarı Kuşak Belgesi** - *Türkiye Judo Federasyonu, Bahar 2024*
+#### 📜 **Sertifikalar ve Belgeler**
+<p align="left">
+  <img src="https://img.shields.io/badge/C1 Türkçe-Yeterlilik-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="C1 Türkçe Yeterlilik"/>
+  <img src="https://img.shields.io/badge/Kurum-Gazi Üniversitesi TÖMER-lightgray?style=for-the-badge" alt="Gazi Üniversitesi TÖMER"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/İnovasyon Zirvesi-'24-brightgreen?style=for-the-badge&logo=launchpad&logoColor=white" alt="İnovasyon Zirvesi '24"/>
+  <img src="https://img.shields.io/badge/Etkinlik-Üniversite-lightgray?style=for-the-badge" alt="Üniversite Etkinliği"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/🥋 Judo-Sarı Kuşak-yellow?style=for-the-badge" alt="Judo Sarı Kuşak"/>
+  <img src="https://img.shields.io/badge/Federasyon-Türkiye Judo Federasyonu-lightgray?style=for-the-badge" alt="Türkiye Judo Federasyonu"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/🥋 Judo-Turuncu Kuşak-orange?style=for-the-badge" alt="Judo Turuncu Kuşak"/>
+  <img src="https://img.shields.io/badge/Federasyon-Türkiye Judo Federasyonu-lightgray?style=for-the-badge" alt="Türkiye Judo Federasyonu"/>
+</p>
 
 ---
 
 ### 🌍 Diller
 
-| Dil      | Seviye      | Açıklama      |
-|----------|-------------|---------------|
-| **Özbekçe**| Ana Dil     | -             |
-| **Türkçe** | İleri (C1)  | Akademik ve Profesyonel Yetkinlik |
-| **Rusça**  | İyi         | Akıcı Konuşma |
+| Dil | Seviye | Açıklama |
+|---|---|---|
+| <img src="https://flagicons.lipis.dev/flags/4x3/uz.svg" width="20" alt="Uzbekistan Flag"/> **Özbekçe**| Ana Dil | - |
+| <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="20" alt="Turkey Flag"/> **Türkçe** | İleri (C1) | Akademik ve Profesyonel Yetkinlik |
+| <img src="https://flagicons.lipis.dev/flags/4x3/ru.svg" width="20" alt="Russia Flag"/> **Rusça** | İyi | Akıcı Konuşma |
 
 ---
 
