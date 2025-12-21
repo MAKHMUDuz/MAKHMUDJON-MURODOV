@@ -47,8 +47,8 @@ Hey! Merhaba! Bu README, Gemini CLI tarafından sevgiyle oluşturuldu.
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAKHMUDJON-MURODOV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Makhmudjon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKHMUDJON-MURODOV&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makhmudjon-murodov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Makhmudjon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudjon-murodov&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
