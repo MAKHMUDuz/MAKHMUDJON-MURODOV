@@ -8,7 +8,7 @@
 
 ### 👋 Hakkımda
 
-- 🎓 Gazi Üniversitesi, **Bilgisayar ve Öğretim Teknolojileri** 3. sınıf lisans öğrencisiyim.
+- 🎓 Gazi Üniversitesi, **Bilgisayar ve Öğretim Teknolojileri** (BÖTE) lisans öğrencisiyim (2022 – devam ediyor), Ankara.
 - 💻 Benim için kod yazmak, bir problemi çözmekten daha fazlası; yeni dünyalar yaratma sanatıdır.
 - 🚀 **Yazılım geliştirme**, **siber güvenlik** ve **IoT** alanlarına büyük bir tutkuyla bağlıyım.
 - 🥋 Teknik tutkumu, **Judo** gibi savunma sanatlarının getirdiği disiplinle birleştirerek kendimi bütünsel olarak geliştiriyorum.
@@ -25,6 +25,21 @@ Aşağıdaki teknolojiler ve araçlar üzerinde aktif olarak çalışıyor ve ke
     <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nextjs,mysql,git,github,arduino,linux&perline=6&theme=dark" />
   </a>
 </div>
+
+---
+
+### 🚀 Projeler
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| [melyar](https://github.com/MAKHMUDuz/melyar) | Hafif, yerel öncelikli YouTube Music masaüstü istemcisi (Linux) | C++20, Rust, Qt6, React, libmpv |
+| [kdeconnect-scrcpy](https://github.com/MAKHMUDuz/kdeconnect-scrcpy) | KDE Connect tepsi menüsünden tek tıklamayla Android ekran yansıtması | QML, Bash, scrcpy, adb |
+| [MUMTAZ](https://github.com/MAKHMUDuz/MUMTAZ) | Yerel öncelikli kişisel kültür kütüphanesi (film, dizi, kitap, müzik) | Rust, Slint |
+| [HAMBURGER](https://github.com/MAKHMUDuz/HAMBURGER) | Çevrimiçi burger sipariş sistemi + yönetici paneli | Next.js, TypeScript, Prisma |
+| [Ai_promts](https://github.com/MAKHMUDuz/Ai_promts) | Claude, ChatGPT, Gemini, Grok, Kimi, MiniMax için prompt kılavuzları | Markdown |
+| [automat-opencode](https://github.com/MAKHMUDuz/automat-opencode) | OpenCode model-failover eklentisi + unattended-delivery becerisi | Python, OpenCode |
+
+Tüm projeler: [github.com/MAKHMUDuz](https://github.com/MAKHMUDuz)
 
 ---
 
@@ -80,3 +95,5 @@ Projeler, işbirliği veya herhangi bir konuda sohbet etmek için aşağıdaki k
         <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail.ru"/>
     </a>
 </p>
+
+---
