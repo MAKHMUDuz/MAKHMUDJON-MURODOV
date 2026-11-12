@@ -80,6 +80,7 @@ Tüm projeler: [github.com/MAKHMUDuz](https://github.com/MAKHMUDuz)
 
 ---
 
+
 ### 📫 Bana Ulaşın
 
 Projeler, işbirliği veya herhangi bir konuda sohbet etmek için aşağıdaki kanallardan bana ulaşabilirsiniz.
