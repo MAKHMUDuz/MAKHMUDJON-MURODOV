@@ -8,6 +8,7 @@
 
 ### 👋 Hakkımda
 
+
 - 🎓 Gazi Üniversitesi, **Bilgisayar ve Öğretim Teknolojileri** (BÖTE) lisans öğrencisiyim (2022 – devam ediyor), Ankara.
 - 💻 Benim için kod yazmak, bir problemi çözmekten daha fazlası; yeni dünyalar yaratma sanatıdır.
 - 🚀 **Yazılım geliştirme**, **siber güvenlik** ve **IoT** alanlarına büyük bir tutkuyla bağlıyım.
