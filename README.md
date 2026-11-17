@@ -4,6 +4,7 @@
   <p><strong>Yazılım Geliştirme, Siber Güvenlik ve IoT Tutkunu</strong></p>
 </div>
 
+
 ---
 
 ### 👋 Hakkımda
